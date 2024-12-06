@@ -1,4 +1,4 @@
-# The Monopoly of National Taiwan University
+# The Monopoly of NTU (Python Edition)
 This is the final project for the course "Programming for Business Computing" at National Taiwan University .
 
 ### Brief Description
